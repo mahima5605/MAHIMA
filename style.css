@@ -11,6 +11,7 @@ scroll-behavior:smooth;
 }
 
 body{
+width:100%;
 font-family:'Poppins',sans-serif;
 background:#08111f;
 color:white;
