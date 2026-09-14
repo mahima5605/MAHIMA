@@ -11,13 +11,16 @@ scroll-behavior:smooth;
 }
 
 body{
-width:100%;
 font-family:'Poppins',sans-serif;
 background:#08111f;
 color:white;
 overflow-x:hidden;
 }
-
+html,
+body {
+    overflow-x: hidden !important;
+    width: 100%;
+}
 section{
     scroll-margin-top: 50px;
 }
