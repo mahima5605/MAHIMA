@@ -37,11 +37,11 @@ window.dispatchEvent(new Event("scroll"));
 
 // typing effct 
   const text = [
-    "Aspiring Web Developer",
+    "Full Stack Web Developer",
     "Frontend Developer",
-    "UI Enthusiast",
+    "React Developer",
     "Problem Solver"
-  ];
+];
 
   let count = 0;
   let index = 0;
